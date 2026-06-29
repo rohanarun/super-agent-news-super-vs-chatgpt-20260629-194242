@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[openai.com](https://news.google.com/rss/articles/CBMiakFVX3lxTE4wMHNYTEZhLU5SOXBrb1BCR1ZyUFdoVmhCVVZkdDdLd1ppekRnZkE5M1otaGxUVTZqSjlwZTk3WmJCYzE3ekctSW9MNEFZSXM1RmR1Wmlya3VXdkZjZGtJRkZIaXFFbk8wUEE?oc=5)",
+    "[techradar.com](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTG1SNWhZYnNjdjNNaXE5US1NOTE5SVB0THVkTE1TVEEwTkt2M2VYQ3FoSEZDeE1jUG1OcHpoTFdsUm1XSFl4aVlGM3Z1UWVWR2lackpjVW5Obk5tUFRJNHpRSGhTUzEyaWthd3h5amx6ZTNHTW9ERUdYZ0Zlc3Nuck9mRkh1cXJta0FQcE5zMlphN3VwQWtDOGxZTlNtNE00UWVJTlBhWjJqTnN1NGo4LThwZUFFRmxyWHpYUUZoeDlUcGtaajB1OHZwcWhRbDBFSmpvRVBUOTkwVlNQb21zQ0FqamlaY2M?oc=5)",
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5)",
+    "[searchenginejournal.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVJoRjFoQjUzdGpSQlNUNUZmQTBUUzBnRkFqZUl2N0N6SkxaS3kzTmR1cUZDZFJ3cEsxcjFYQXVWYmh2RU56UEhlLVpZS2JQcE5WRmg1LXRGRUJUVmxMeWdnTlRkQjNNNzVCTThETk8zRW5qMnRlUnZGRjZWUFRPeVA3RVVtcDQtTklUWTk4T2NLOE1VWG9YVjdrM1BjMW1kd1JQZndaQy1PTURSUUg1eHcwV1NlRFBJOVR3SkpkeTZYX3lMT2c?oc=5)",
+    "[bwbusinessworld.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3k2YWR0UUZValVWRTMybEFDOHptU3RETnFDOFJhaEV4VzlSQnlwZTRPUjFZcDFVLXR0NVlPNnF3ME1wTnhZQXJtcWt4WEoweFJKaG50ZG11bmVYMml6MV92RlluWW83UEJMUkIyWm1zTW5aUWRMQzQ5aG1CemNOSGp0M2QwTlhpOVVscENLOC16YVNSdFBYbUZodFBlLS1xZ05RR0tiLWl4dEpKQTVIQ1RGN290WEkybHZQN1NvdmJFUS1sTHc?oc=5)"
+  ],
+  "design_plan": "rng=42; hero_lines=3; AIDA=pass; bento_density=grid-auto-flow:dense; contrast=pass; labels_checked=pass",
+  "generated_at": "2026-06-29T19:42:48.945806+00:00",
+  "headline": "Super vs ChatGPT",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "A fair comparison for people choosing between ChatGPT and Super. ChatGPT excels as a general-purpose AI assistant and platform for agents across many products. Super is purpose-built for personal AI agents that operate computers and reuse a computer-use cache\u2014making repeated, real-world workflows sharper and cheaper over time."
+}
